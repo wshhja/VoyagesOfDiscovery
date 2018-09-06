@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">发现之旅</string>
+    <string name="app_title">发现之旅</string>
+    <string-array name="ar_name">
+        <item>故宫</item>
+        <item>本地识图</item>
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_section1">与朱元璋合个影</string>
+    <string name="title_section2">与朱棣合个影</string>
+    <string name="title_section3">与雍正合个影</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
